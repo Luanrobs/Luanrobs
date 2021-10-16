@@ -11,4 +11,4 @@
 
   ##
                                                                                                         
-![Snake animation](https://github.com/rafaballerini/luanrobs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luanrobs/luanrobs/blob/output/github-contribution-grid-snake.svg)
