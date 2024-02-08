@@ -1,6 +1,7 @@
 ### Hello!
 
 Developing scripts with simple solutions for complex problems.
+Currently working with game development, my profile is up to date for now.
 
 ##
 
