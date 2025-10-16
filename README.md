@@ -10,6 +10,16 @@ Currently working with game development, my profile is up to date for now.
 
 ---
 
+## Featured Work
+
+### Signia Studios
+[![Behance](https://img.shields.io/badge/Behance-FF2A68?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/signiastudios)
+[![Starhaste](https://img.shields.io/badge/Starhaste-FFD700?style=for-the-badge)](https://starhaste.com/)
+[![Signiaverso](https://img.shields.io/badge/Showroom_WebGL-00C4FF?style=for-the-badge)](https://signiastudios.com.br/signiaverso/index.html)
+
+
+---
+
 ## Recommend Channels to Learn & Be Inspired
 
 <div align="center">
