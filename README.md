@@ -29,11 +29,13 @@ Currently working with game development, my profile is up to date for now.
 
 | Game Dev / Unity | Tech / Computer Science | Inspiring / Tools / Experiments |
 |------------------|-------------------------|---------------------------------|
-| [Dapper Dino](https://www.youtube.com/@DapperDinoCodingTutorials) | [Computerphile](https://www.youtube.com/@Computerphile/videos) | [t3ssel8r](https://www.youtube.com/@t3ssel8r) |
-| [Llam Academy](https://www.youtube.com/@LlamAcademy/videos) |  | [_gameslave](https://www.youtube.com/@_gameslave/videos) |
-|  |  | [MujjMujj](https://www.youtube.com/@MujjMujj/videos) |
-|  |  | [Willlogs](https://www.youtube.com/@willlogs/videos) |
-
+| [PracticAPI](https://www.youtube.com/@practicapiglobal) | [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/videos) | [t3ssel8r](https://www.youtube.com/@t3ssel8r) |
+| [Dapper Dino](https://www.youtube.com/@DapperDinoCodingTutorials) | [Computerphile](https://www.youtube.com/@Computerphile/videos) | [AI Search](https://www.youtube.com/@theAIsearch/videos) |
+| [Brackeys](https://www.youtube.com/@Brackeys) | [_gameslave](https://www.youtube.com/@_gameslave/videos) | [MujjMujj](https://www.youtube.com/@MujjMujj/videos) |
+| [Llam Academy](https://www.youtube.com/@LlamAcademy/videos) |  | [Willlogs](https://www.youtube.com/@willlogs/videos) |
+| [SpeedTutor](https://www.youtube.com/@SpeedTutor/videos) |  | [Code Bullet](https://www.youtube.com/@CodeBullet/videos) |
+|  |  | [LovDEV](https://www.youtube.com/@LovDevYT/videos) |
+|  |  | [samyam](https://www.youtube.com/@samyam/videos) |
 
 ---
 
