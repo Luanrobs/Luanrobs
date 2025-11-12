@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-Developing scripts with simple solutions for complex problems.  
-Currently working with game development, my profile is up to date for now.
+Unity developer with 5+ years of experience.
+Building games, editor tools, AR/VR apps, interactive configurators, and diverse experiences across multiple platforms.
 
 ---
 
